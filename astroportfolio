@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>astromego</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial=scale1.0">
+    <link rel="stylesheet" type="text/css" href="main.css">
+</head>
+<body>
+ <div class="navigation">
+   <nav>
+      <ul>
+      <li><a href="index.html">Terra Firma</a></li>
+      <li><a href="About.html">History</a></li>
+      <li><a href="Contact.html">Radio Waves</a></li>
+      <li><a href="projects.html">Missions</a></li>
+      <li><a href="meghanhalpin.tumblr.com">Rants to Deep Space</a></li>
+      </ul>
+    </nav>
+</div>
+    
+    
+    <div class="landing">
+    <div class="landingWrapper">
+        <div class="landingL">Í
+        <img src="images/astrologo.png" alt="astromego logo" width="400 px">
+     
+        <p>IXD | space nerd | queen of memes</p>
+        <ul>
+            <li><p>Human Centred Experience Design</p></li>
+            <li><p>User Research and Discovery</p></li>
+            <li><p>Iconography and Illustration</p></li>
+            <li><p>Branding and Identity</p></li>
+            <li><p>Design Thinking</p></li>
+            <li><p>Web Design</p></li>
+        </ul>
+        </div>
+        <div class="landingR">
+            <img src="images/megoArtboard%202.png" alt="Meghan Halpin face" width="400px">
+        
+        </div>
+    </div>
+    <img src="images/Scroll.png" alt="scroll down" class="scroll">
+    </div>
+    
+    <div class="skills">
+        <h2>Skills</h2>
+        <p>User experience design/research. Idea generation. Creative problem solving. Prototyping. Typography. Design principles. Also great at drinking copious amounts of tea & eating ALL of the pizza. </p>
+        <p>Three years of design experience using Adobe CC.</p>
+        <div class="programs">
+        <img src="images/Ai.png" alt="Ai icon">
+        <img src="images/Ps.png" alt="Ps icon">
+        <img src="images/Xd.png" alt="Xd icon">
+        </div>
+    </div>
+    
+    <div class="work clearfix">
+        <div class="workText">
+        <h1>Dreamcatcher</h1>
+        <a href="dreamcatcher.html"><h5>View Project</h5></a>
+        </div>
+       <img src="images/dreamcatcherlogo.png" alt="project image"  width="400px">
+    </div>
+    
+     <div class="work2 clearfix">
+        <div class="workText">
+        <h1>Astrologicons</h1>
+        <a href="nurture.html"><h5>View Project</h5></a>
+        </div>
+       
+        <img src="images/constickers.png" alt="project image" width="700 px">
+    </div>
+    
+    <div class="footer">
+        <a href="#"><h3 class="blue">Designed and built by a very sleepy Meghan Halpin in 2018</h3></a>
+        <div class="underlineSmall"></div>
+    </div>
+    
+    
+    
+    
+    
+    
+
+</body>
+</html>
+
+
